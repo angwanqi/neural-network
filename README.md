@@ -1,3 +1,3 @@
 # Neural Network Assignments
-[] Assignment 1
-[] Assignment 2
+- [ ] Assignment 1
+- [ ] Assignment 2
